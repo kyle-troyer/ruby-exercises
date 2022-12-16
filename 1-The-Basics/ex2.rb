@@ -1,3 +1,5 @@
+# Get the digit in each position of a 4 digit number
+
 number = 5673
 
 puts "Digit in thousands place is: " + (number/1000).to_s
